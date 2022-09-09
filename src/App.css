@@ -1,0 +1,40 @@
+*{
+  margin:0px;
+  padding: 0px;
+  border: none;
+}
+.App {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+.D-App{
+  background-color: rgb(32, 31, 31);
+  color: white;
+  padding: 20px;
+  height: 100vh;
+}
+.togglediv{
+  display: flex;
+  background-color: Blue;
+  justify-content: space-between;
+  width: 60px;
+  height: 30px;
+  border: 2px solid gray;
+  padding: 5px;
+  border-radius: 20px;
+}
+.btn{
+  background-color: Blue;
+  width: 25px;
+  height: 30px;
+  border-radius: 20px;
+}
+.btn-D-App{
+  background-color: white;
+}
+h3{
+  text-align: left;
+  margin-top: 20px;
+}
+
